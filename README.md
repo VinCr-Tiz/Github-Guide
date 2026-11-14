@@ -4,6 +4,6 @@ This repository contains simple introduction to Git and Github commands and work
 Collaborators:
 Arvin Mohammadi,
 Mehdi Fallahi Moghadam,
-Bahar Soldanpoor
+Bahar Soltanpoor
 
-Status:in-progress
+Status:Completed
